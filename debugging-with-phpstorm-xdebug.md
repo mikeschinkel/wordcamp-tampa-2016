@@ -6,6 +6,8 @@ _Presented by Mike Schinkel_
 
 ##Debugging with PhpStorm and XDEBUG
 
+Follow these instructions to get Debugging working in PhpStorm:
+
 ###Run/Debug Configuration
 1. `Run > Edit Configurations`
 2. `[+]`
