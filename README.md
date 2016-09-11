@@ -5,33 +5,6 @@
 _Presented by Mike Schinkel_
 
 ##Agenda
-### SURVEY
-####Skill Set
-- Designers? 
-- Backend Developers
-- Frontend Developers
-- Full stack Developers?
-- Site Builders _(not a programmer?)_
-- End Users of WordPress?
-- None of the Above?
-
-####Organization Type
-- Individual Freelancer?
-- Work for an Agency?
-- Work for a Company Building Own Sites?
-- Commercial Theme Developers?
-- Commercial Plugin Developers?
-- Work for a Web Host?
-- None of the Above?
-
-
-### BACKGROUND
-- What Defines a Web Server?
-- What Defines WordPress on a Web Server?
-- Web Servers vs Local Computers
-- Benefits of Local Development
-- Options for Local Development
-- Options for Local WordPress Development
 
 ### WORKSHOP
 1. Install VirtualBox
@@ -49,6 +22,13 @@ _Presented by Mike Schinkel_
 13. Importing Your Own Project
 14. Multi-tenancy
 
+### BACKGROUND
+- What Defines a Web Server?
+- What Defines WordPress on a Web Server?
+- Web Servers vs Local Computers
+- Benefits of Local Development
+- Options for Local Development
+- Options for Local WordPress Development
 	
 
 #WORKSHOP
@@ -106,7 +86,7 @@ OR
 - Local Changes do not affect the Live Website
 - Ability to use a Debugger
 - No Latency when editing theme and plugin files.
-- Try "with if" scenarios
+- Try "what if" scenarios
 	- If no good, throw away and start over
 - Easier to use Version Control
 - Easier to use Composer
