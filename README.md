@@ -4,7 +4,7 @@ _Presented by Mike Schinkel_
 
 Workshop Instructions for:
 
-- [Mac OS X Users](mac-os-x-bash)
-- [Windows Users with Powershell](windows-powershell)
-- [Windows Users w/o Powershell](windows-cmd)
+- [Mac OS X Users](mac-os-x-bash.md)
+- [Windows Users with Powershell](windows-powershell.md)
+- [Windows Users w/o Powershell](windows-cmd.md)
 
