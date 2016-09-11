@@ -7,5 +7,4 @@ Workshop Instructions for:
 - [Mac OS X Users](mac-os-x-bash)
 - [Windows Users with Powershell](windows-powershell)
 - [Windows Users w/o Powershell](windows-cmd)
-- 
 
