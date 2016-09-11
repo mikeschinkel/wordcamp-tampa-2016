@@ -5,6 +5,26 @@
 _Presented by Mike Schinkel_
 
 ##Agenda
+### SURVEY
+####Skill Set
+- Designers? 
+- Backend Developers
+- Frontend Developers
+- Full stack Developers?
+- Site Builders _(not a programmer?)_
+- End Users of WordPress?
+- None of the Above?
+
+####Organization Type
+- Individual Freelancer?
+- Work for an Agency?
+- Work for a Company Building Own Sites?
+- Commercial Theme Developers?
+- Commercial Plugin Developers?
+- Work for a Web Host?
+- None of the Above?
+
+
 ### BACKGROUND
 - What Defines a Web Server?
 - What Defines WordPress on a Web Server?
@@ -115,6 +135,9 @@ Instructions For:
 - WPLib Box (Free, Simple)
 	- Full Disclosure - I designed it, and our team built it.
 
+##Questions?
+- Anything except future plans
+
 ##WPLib Future Plans
 
 - We Pledge:
@@ -130,8 +153,11 @@ Instructions For:
 	- An **API**
 	- An **In-Box Command Line Tool**
 
-- A Host Command Line Tool
-- Installable Packages
+- A Windows and Mac Command Line Tool to Manage the Box
 - Commercial Support to include Installers for Mac & Windows
+- Build Tools
+- Deployment Tools
+- Installable Packages
 - Hardware versions of WPLib Box 
-	- Crowdfunding campaign
+	- Would you be interested in one?
+- Questions?
