@@ -34,7 +34,7 @@ _Presented by Mike Schinkel_
 #WORKSHOP
 
 ##Software Required
-- VirtualBox _([_Download Here_](virtualbox.org/wiki/Downloads))_
+- VirtualBox _([_Download Here_](https://www.virtualbox.org/wiki/Downloads))_
 - Vagrant _([_Download Here_](https://www.vagrantup.com/downloads.html))_
 
 OR
