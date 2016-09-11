@@ -49,12 +49,6 @@ Instructions For:
 - [Windows Users w/o Powershell](windows-cmd.md)
 
 
-
-
-
-
-
-
 #BACKGROUND
 ##What Defines a Web Server?
 - A computer running software
@@ -115,23 +109,5 @@ Instructions For:
 - WPLib Box (Free, Simple)
 	- Full Disclosure - I designed it, and our team built it.
 
-##WPLib Future Plans
 
-- We Pledge:
 
-	- To keep WPLib Box software **_always free to use_**
-	- To solve the harder problems WordPress site builders experience
-	- To have a fanatical focus on _"Developer Experience"_
-	- To make it easier for WordPress Pros to follow best practices vs. not.
-
-- **Multi-project Support** in the very near future _(~1 month?)_, including:
-
-	- An **Admin Console** 
-	- An **API**
-	- An **In-Box Command Line Tool**
-
-- A Host Command Line Tool
-- Installable Packages
-- Commercial Support to include Installers for Mac & Windows
-- Hardware versions of WPLib Box 
-	- Crowdfunding campaign

@@ -66,8 +66,8 @@ Next open http://wplib.box in your browser.
 
 Login to the `/wp-admin/` and look around
 
-	- Username: `admin`
-	- Password: `admin`
+- Username: `admin`
+- Password: `admin`
 
 ##9. Change the Domain Name
 
