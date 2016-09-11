@@ -108,13 +108,13 @@ See [Debugging with PhpStorm and XDEBUG](debugging-with-phpstorm-xdebug.md).
 ##13. Importing Your Own Project
 
 1. Edit `Vagrantfile` to use your own domain name i.e. `mysite.dev` instead of `example.box`
-1. Export your own MySQL database to `Sites/example.box/sql/mysite.sql`
 2. Delete the contents of the `www` directory
 3. Copy your code into the `www` directory
 4. Update `DB_USER`, `DB_PASSWORD` and `DB_NAME` in `wp-config.php` to be:
 	- Username: `wordpress`
 	- Password: `wordpress`
 	- Database: `wordpress`
+1. Export your own MySQL database to `Sites/example.box/sql/mysite.sql`
 5. Run `vagrant ssh`
 6. Run `box import-db mysite.sql`	
 7. Type `exit`
