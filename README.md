@@ -62,7 +62,7 @@ OR
 - Use a Thumb Drive _(One of four Lexar 8Gb drives)_ 
 - Instructions Here for Unzipping `vagrant.d.zip`
 
-##WorkShop Instructions For:
+##Workshop Instructions For:
 
 - [Mac OS X Users](mac-os-x-bash.md)
 - [Windows Users with Powershell](windows-powershell.md)
@@ -136,9 +136,9 @@ OR
 	- Full Disclosure - I designed it, and our team built it.
 
 ##Questions?
-- Anything except future plans
+- About anything except future plans
 
-##WPLib Future Plans
+##WPLib Box Future Plans
 
 - We Pledge:
 
