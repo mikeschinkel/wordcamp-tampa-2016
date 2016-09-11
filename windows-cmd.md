@@ -104,7 +104,7 @@ Login to the `/wp-admin/` and look around
 
 ##11. Debugging with PhpStorm
 
-- PhpStorm and XDEBUG
+See [Debugging with PhpStorm and XDEBUG](debugging-with-phpstorm-xdebug.md).
 
 ##12. Fixing IP Conflicts
 
